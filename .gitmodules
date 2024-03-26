@@ -1,3 +1,0 @@
-[submodule "onboard_ws/src/px4_msgs"]
-	path = onboard_ws/src/px4_msgs
-	url = https://github.com/PX4/px4_msgs.git
